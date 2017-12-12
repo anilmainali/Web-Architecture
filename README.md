@@ -7,6 +7,6 @@ As a QA Professional you should have a clear understanding of Web Architecture.T
 ## What makes up a Web Architectre?
 - Hardware
 - Software
-
+## Types Of Web Architectre
 
 
