@@ -5,5 +5,8 @@ As a QA Professional you should have a clear understanding of Web Architecture.T
 
 ## Why we need to know about Web Architectre or why we need a Web Architectre? What is its purpose?
 ## What makes up a Web Architectre?
+- Hardware
+- Software
+
 
 
